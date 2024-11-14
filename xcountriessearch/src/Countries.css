@@ -1,0 +1,18 @@
+.card{
+    margin:20px;
+    padding:20px;
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+    text-align:center;
+    align-items: center;
+    justify-content:center;
+}
+.card img{
+    width:70px;
+    height: 70px;
+}
+.Countries{
+    display: flex;
+    flex-wrap:wrap;
+}
